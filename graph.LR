@@ -1,0 +1,7 @@
+graph LR
+    A[Developer Resources] --> B[UI & Design]
+    A --> C[Documentation]
+    A --> D[Icons & Graphics]
+    A --> E[Learning & Practice]
+    A --> F[AI-Powered Tools]
+    A --> G[Frameworks]
