@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Resources-25+-blue?style=for-the-badge" alt="25+ Resources">
   <img src="https://img.shields.io/badge/Categories-6-green?style=for-the-badge" alt="6 Categories">
-  <img src="https://img.shields.io/badge/Updated-June_2024-brightgreen?style=for-the-badge" alt="Updated">
+  <img src="https://img.shields.io/badge/Updated-28_June_2024-brightgreen?style=for-the-badge" alt="Updated">
 </div>
 
 <div align="center">
