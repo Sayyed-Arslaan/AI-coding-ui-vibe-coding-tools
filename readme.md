@@ -1,4 +1,4 @@
-# 🚀 Ultimate Developer Resources Collection
+# 🚀 Ultimate Developer.dev Resources Collection
 
 <div align="center">
   <img src="https://img.shields.io/badge/Resources-25+-blue?style=for-the-badge" alt="25+ Resources">
